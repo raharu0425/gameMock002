@@ -12,7 +12,7 @@ assets/
 build_*_xcode/
 *.mode*v*
 h.pbxuser
-build/
+#build/
 .DS_Store
 *.xcscheme
 *.xcworkspacedata
