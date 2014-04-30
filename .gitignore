@@ -2,10 +2,6 @@
 proj.linux/
 proj.win32/
 proj.wp8-xaml/
-libs/
-bin/
-obj/
-#h.pbxuser
 .DS_Store
 *.xcscheme
 *.xcworkspacedata
