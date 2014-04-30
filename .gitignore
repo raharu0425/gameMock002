@@ -1,0 +1,20 @@
+# Cocos2dx用Ignore
+proj.linux/
+proj.win32/
+proj.wp8-xaml/
+libs/
+bin/
+obj/
+assets/
+.classpath
+.project
+.cproject
+build_*_xcode/
+*.mode*v*
+h.pbxuser
+build/
+.DS_Store
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+xcschememanagement.*
