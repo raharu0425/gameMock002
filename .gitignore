@@ -1,9 +1,5 @@
-# Cocos2dx用Ignore
+#Cocos2dx用Ignore
 proj.linux/
 proj.win32/
 proj.wp8-xaml/
 .DS_Store
-*.xcscheme
-*.xcworkspacedata
-*.xcuserstate
-xcschememanagement.*
