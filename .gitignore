@@ -5,10 +5,7 @@ proj.wp8-xaml/
 libs/
 bin/
 obj/
-.classpath
-.project
-.cproject
-h.pbxuser
+#h.pbxuser
 .DS_Store
 *.xcscheme
 *.xcworkspacedata
